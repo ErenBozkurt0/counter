@@ -1,0 +1,25 @@
+body h1{
+    text-align: center;
+}
+
+body #container{
+    text-align: center;
+}
+
+body #number{
+    font-size: 60px;
+    margin: 20px;
+}
+
+body button{
+    border-radius: 3px;
+    border: 1px solid burlywood;
+    background-color: blanchedalmond;
+    margin: 5px;
+    padding: 10px;
+}
+
+button:hover{
+    background-color: rgb(234, 196, 140);
+    transition: all 0.1s;
+}
